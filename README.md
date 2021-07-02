@@ -22,5 +22,8 @@ npx react-native run-android
 * [Formik](https://formik.org/) - Biblioteca de formularioss 
 * [Yup](https://www.npmjs.com/package/yup) - Constructor de esquemas y validación
 * [Prop types](https://www.npmjs.com/package/prop-types) - Verificación de tipos
-* [Styled components](https://styled-components.com/) - Crear stilos 
-* [Reac Native elements](https://reactnativeelements.com/) - Kit de herramientas de interfaz de usuario
+* [Styled components](https://styled-components.com/) - Creacion de componentes y estilos
+* [SQLite](https://www.npmjs.com/package/react-native-sqlite-storage) -Complemento nativo SQLite3 para React Native para Android
+* [Iconos](https://github.com/oblador/react-native-vector-icons) - Iconos
+* [React-native date picker](https://www.npmjs.com/package/react-native-date-picker) - Selector de fecha y hora
+* [Tabs](https://www.npmjs.com/package/react-native-tab-view) - Tabs
