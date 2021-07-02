@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Challenge
 
 To-do app: React Native code challenge
 
