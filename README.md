@@ -27,3 +27,4 @@ npx react-native run-android
 * [Iconos](https://github.com/oblador/react-native-vector-icons) - Iconos
 * [React-native date picker](https://www.npmjs.com/package/react-native-date-picker) - Selector de fecha y hora
 * [Tabs](https://www.npmjs.com/package/react-native-tab-view) - Tabs
+* [React-native pager view](https://www.npmjs.com/package/react-native-tab-view) - Permite al usuario deslizarse de izquierda a derecha a través de páginas de datos
