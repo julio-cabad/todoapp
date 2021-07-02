@@ -33,5 +33,5 @@ export {Alerts, ErrorAlert};
 Alerts.propTypes = {
     type: PropTypes.string,
     head: PropTypes.string,
-    body: PropTypes.body,
+    body: PropTypes.string,
 };
