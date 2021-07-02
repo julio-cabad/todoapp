@@ -2,7 +2,7 @@
 
 To-do app: React Native code challenge
 
-## Comenzando 🚀
+## Instalación 🔧
 Descargar la app de:
 
 ```
@@ -14,3 +14,8 @@ npx react-native run-ios
 o
 npx react-native run-android
 ```
+
+## Biblitotecas 🛠️
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
