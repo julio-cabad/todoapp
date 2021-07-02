@@ -1,5 +1,7 @@
 import React from "react";
 import { Input } from "react-native-elements";
+import PropTypes from "prop-types";
+import DateComponentPicker from "../screens/task/DateComponentPicker";
 
 function EditText(props) {
 
@@ -7,6 +9,8 @@ function EditText(props) {
     placeholder, keyBoard, errorMessage, handleBlur, value, onChangeText,
     icon, field, label, disabled
   } = props;
+
+  console.log(typeof  errorMessage)
 
   return (
     <Input
@@ -38,3 +42,14 @@ function EditText(props) {
 }
 
 export default EditText;
+
+EditText.propTypes = {
+  placeholder: PropTypes.string,
+  keyBoard: PropTypes.string,
+  value: PropTypes.string,
+  field: PropTypes.string,
+  label: PropTypes.string,
+  disabled: PropTypes.bool,
+  handleBlur: PropTypes.func,
+  onPress: PropTypes.func,
+};

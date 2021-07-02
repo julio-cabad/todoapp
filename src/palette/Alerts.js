@@ -1,5 +1,6 @@
 import React from 'react';
 import Toast from 'react-native-toast-message';
+import PropTypes from "prop-types";
 
 function Alerts(type, head, body) {
     Toast.show({
@@ -28,3 +29,9 @@ function ErrorAlert(){
 }
 
 export {Alerts, ErrorAlert};
+
+Alerts.propTypes = {
+    type: PropTypes.string,
+    head: PropTypes.string,
+    body: PropTypes.body,
+};
