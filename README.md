@@ -16,6 +16,6 @@ npx react-native run-android
 ```
 
 ## Biblitotecas 🛠️
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Mobx](https://mobx.js.org/README.html) - Administración del Estado
+* [Mobx React Lite](https://www.npmjs.com/package/mobx-react-lite) - Versión más liviana de mobx-react que solo admite componentes funcionales 
+* [React Navigation]https://reactnavigation.org/) - Enrutamiento y navegación
